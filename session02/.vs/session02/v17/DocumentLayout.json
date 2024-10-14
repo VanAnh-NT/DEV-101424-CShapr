@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B352300-482E-42B8-8D4B-2B3E01EC5DB0}|lab_02-05\\lab_02-05.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B352300-482E-42B8-8D4B-2B3E01EC5DB0}|lab_02-05\\lab_02-05.csproj|solutionrelative:lab_02-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BAF3C4-E6A4-44A8-B282-EEF9782DD443}|lab_02-04\\lab_02-04.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BAF3C4-E6A4-44A8-B282-EEF9782DD443}|lab_02-04\\lab_02-04.csproj|solutionrelative:lab_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0011742A-5384-4616-86B1-71F95BD778C4}|lab02-03\\lab02-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0011742A-5384-4616-86B1-71F95BD778C4}|lab02-03\\lab02-03.csproj|solutionrelative:lab02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3896CD-5BBB-480C-BBB4-73F611C6DC91}|lab_02-2\\lab_02-2.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3896CD-5BBB-480C-BBB4-73F611C6DC91}|lab_02-2\\lab_02-2.csproj|solutionrelative:lab_02-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE80E3AB-9575-426C-B14B-BDCDB142DA08}|lab_02\\lab_02.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE80E3AB-9575-426C-B14B-BDCDB142DA08}|lab_02\\lab_02.csproj|solutionrelative:lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-05\\Program.cs",
+              "RelativeDocumentMoniker": "lab_02-05\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-05\\Program.cs",
+              "RelativeToolTip": "lab_02-05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:50:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-04\\Program.cs",
+              "RelativeDocumentMoniker": "lab_02-04\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-04\\Program.cs",
+              "RelativeToolTip": "lab_02-04\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:25:51.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab02-03\\Program.cs",
+              "RelativeDocumentMoniker": "lab02-03\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab02-03\\Program.cs",
+              "RelativeToolTip": "lab02-03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:03:10.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-2\\Program.cs",
+              "RelativeDocumentMoniker": "lab_02-2\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-2\\Program.cs",
+              "RelativeToolTip": "lab_02-2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:32:43.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02\\Program.cs",
+              "RelativeDocumentMoniker": "lab_02\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02\\Program.cs",
+              "RelativeToolTip": "lab_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:47:56.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
