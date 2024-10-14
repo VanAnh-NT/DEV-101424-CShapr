@@ -1,0 +1,14 @@
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\bin\Debug\net8.0\bt_02.exe
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\bin\Debug\net8.0\bt_02.deps.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\bin\Debug\net8.0\bt_02.runtimeconfig.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\bin\Debug\net8.0\bt_02.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\bin\Debug\net8.0\bt_02.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.AssemblyInfoInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.AssemblyInfo.cs
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.csproj.CoreCompileInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\refint\bt_02.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\bt_02.genruntimeconfig.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\Session1\bt_01\obj\Debug\net8.0\ref\bt_02.dll
