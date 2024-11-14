@@ -1,0 +1,15 @@
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\bin\Debug\net8.0\lab_02-05_bai2_5.exe
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\bin\Debug\net8.0\lab_02-05_bai2_5.deps.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\bin\Debug\net8.0\lab_02-05_bai2_5.runtimeconfig.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\bin\Debug\net8.0\lab_02-05_bai2_5.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\bin\Debug\net8.0\lab_02-05_bai2_5.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.AssemblyInfoInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.AssemblyInfo.cs
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.csproj.CoreCompileInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.sourcelink.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\refint\lab_02-05_bai2_5.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\lab_02-05_bai2_5.genruntimeconfig.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session02\lab_02-05_bai2.5\obj\Debug\net8.0\ref\lab_02-05_bai2_5.dll

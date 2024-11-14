@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session04\\bt04-03\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|solutionrelative:bt04-03\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session04\\bt04-03\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|solutionrelative:bt04-03\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session04\\bt04-03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7D55B-73F7-49DD-A153-C14CD0111E63}|bt04-03\\bt04-03.csproj|solutionrelative:bt04-03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E139A2B8-B7A5-40B0-BB75-E9BF714C0832}|lab04-4\\lab04-04.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session04\\lab04-4\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E139A2B8-B7A5-40B0-BB75-E9BF714C0832}|lab04-4\\lab04-04.csproj|solutionrelative:lab04-4\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\lab04-4\\Staff.cs",
+              "RelativeDocumentMoniker": "lab04-4\\Staff.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\lab04-4\\Staff.cs",
+              "RelativeToolTip": "lab04-4\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:39:21.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\Document.cs",
+              "RelativeDocumentMoniker": "bt04-03\\Document.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\Document.cs",
+              "RelativeToolTip": "bt04-03\\Document.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwC4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:37:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "bt04-03\\IEncryptable.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\IEncryptable.cs",
+              "RelativeToolTip": "bt04-03\\IEncryptable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:36:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\IStorage.cs",
+              "RelativeDocumentMoniker": "bt04-03\\IStorage.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session04\\bt04-03\\IStorage.cs",
+              "RelativeToolTip": "bt04-03\\IStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:30:17.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\bin\Debug\net8.0\lab05-01.exe
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\bin\Debug\net8.0\lab05-01.deps.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\bin\Debug\net8.0\lab05-01.runtimeconfig.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\bin\Debug\net8.0\lab05-01.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\bin\Debug\net8.0\lab05-01.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.AssemblyInfoInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.AssemblyInfo.cs
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.csproj.CoreCompileInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.sourcelink.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\refint\lab05-01.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\lab05-01.genruntimeconfig.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session05\lab05-01\obj\Debug\net8.0\ref\lab05-01.dll

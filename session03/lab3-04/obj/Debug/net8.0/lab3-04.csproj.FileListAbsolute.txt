@@ -1,0 +1,15 @@
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\bin\Debug\net8.0\lab3-04.exe
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\bin\Debug\net8.0\lab3-04.deps.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\bin\Debug\net8.0\lab3-04.runtimeconfig.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\bin\Debug\net8.0\lab3-04.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\bin\Debug\net8.0\lab3-04.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.AssemblyInfoInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.AssemblyInfo.cs
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.csproj.CoreCompileInputs.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.sourcelink.json
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\refint\lab3-04.dll
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.pdb
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\lab3-04.genruntimeconfig.cache
+D:\DEVMASTER\141024NetCore\DEV-101424-CShapr\session03\lab3-04\obj\Debug\net8.0\ref\lab3-04.dll

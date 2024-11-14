@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B352300-482E-42B8-8D4B-2B3E01EC5DB0}|lab_02-05\\lab_02-05.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B352300-482E-42B8-8D4B-2B3E01EC5DB0}|lab_02-05\\lab_02-05.csproj|solutionrelative:lab_02-05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{490F80AC-3483-4BD8-B70C-1CBA42E8E10B}|bt_02-08\\bt_02-08.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490F80AC-3483-4BD8-B70C-1CBA42E8E10B}|bt_02-08\\bt_02-08.csproj|solutionrelative:bt_02-08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BAF3C4-E6A4-44A8-B282-EEF9782DD443}|lab_02-04\\lab_02-04.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BAF3C4-E6A4-44A8-B282-EEF9782DD443}|lab_02-04\\lab_02-04.csproj|solutionrelative:lab_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F467126-ACE2-4160-AAA1-F5C735C717C9}|bt_02-07\\bt_02-07.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F467126-ACE2-4160-AAA1-F5C735C717C9}|bt_02-07\\bt_02-07.csproj|solutionrelative:bt_02-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0011742A-5384-4616-86B1-71F95BD778C4}|lab02-03\\lab02-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0011742A-5384-4616-86B1-71F95BD778C4}|lab02-03\\lab02-03.csproj|solutionrelative:lab02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C62F79B4-7C2F-4CAB-A8E6-305010294D2B}|bt_02-04\\bt_02-04.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62F79B4-7C2F-4CAB-A8E6-305010294D2B}|bt_02-04\\bt_02-04.csproj|solutionrelative:bt_02-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F3896CD-5BBB-480C-BBB4-73F611C6DC91}|lab_02-2\\lab_02-2.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F3896CD-5BBB-480C-BBB4-73F611C6DC91}|lab_02-2\\lab_02-2.csproj|solutionrelative:lab_02-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F68F9D5F-6B0E-4BFE-B48D-0EFED4A75AD9}|bt_02-05a\\bt_02-05a.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-05a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68F9D5F-6B0E-4BFE-B48D-0EFED4A75AD9}|bt_02-05a\\bt_02-05a.csproj|solutionrelative:bt_02-05a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE80E3AB-9575-426C-B14B-BDCDB142DA08}|lab_02\\lab_02.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE80E3AB-9575-426C-B14B-BDCDB142DA08}|lab_02\\lab_02.csproj|solutionrelative:lab_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62A65F2-869E-4E81-92F5-CCA9B83BF89E}|bt_02-03\\bt_02-03.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62A65F2-869E-4E81-92F5-CCA9B83BF89E}|bt_02-03\\bt_02-03.csproj|solutionrelative:bt_02-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61DE5C-D7E8-4B01-A39C-FC96D8C77049}|bt_02-02\\bt_02-02.csproj|d:\\devmaster\\141024netcore\\dev-101424-cshapr\\session02\\bt_02-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61DE5C-D7E8-4B01-A39C-FC96D8C77049}|bt_02-02\\bt_02-02.csproj|solutionrelative:bt_02-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,68 +42,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-05\\Program.cs",
-              "RelativeDocumentMoniker": "lab_02-05\\Program.cs",
-              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-05\\Program.cs",
-              "RelativeToolTip": "lab_02-05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:50:16.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-04\\Program.cs",
-              "RelativeDocumentMoniker": "lab_02-04\\Program.cs",
-              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-04\\Program.cs",
-              "RelativeToolTip": "lab_02-04\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAbAAAA",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-07\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-07\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-07\\Program.cs",
+              "RelativeToolTip": "bt_02-07\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:25:51.209Z",
+              "WhenOpened": "2024-10-21T06:32:57.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab02-03\\Program.cs",
-              "RelativeDocumentMoniker": "lab02-03\\Program.cs",
-              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab02-03\\Program.cs",
-              "RelativeToolTip": "lab02-03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-08\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-08\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-08\\Program.cs",
+              "RelativeToolTip": "bt_02-08\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T05:03:10.292Z",
+              "WhenOpened": "2024-10-21T01:51:07.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-2\\Program.cs",
-              "RelativeDocumentMoniker": "lab_02-2\\Program.cs",
-              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02-2\\Program.cs",
-              "RelativeToolTip": "lab_02-2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-05a\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-05a\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-05a\\Program.cs",
+              "RelativeToolTip": "bt_02-05a\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:32:43.628Z",
+              "WhenOpened": "2024-10-19T13:57:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-04\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-04\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-04\\Program.cs",
+              "RelativeToolTip": "bt_02-04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:59:13.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02\\Program.cs",
-              "RelativeDocumentMoniker": "lab_02\\Program.cs",
-              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\lab_02\\Program.cs",
-              "RelativeToolTip": "lab_02\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-03\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-03\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-03\\Program.cs",
+              "RelativeToolTip": "bt_02-03\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:47:56.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T04:56:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-02\\Program.cs",
+              "RelativeDocumentMoniker": "bt_02-02\\Program.cs",
+              "ToolTip": "D:\\DEVMASTER\\141024NetCore\\DEV-101424-CShapr\\session02\\bt_02-02\\Program.cs",
+              "RelativeToolTip": "bt_02-02\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:44:36.976Z"
             }
           ]
         }
